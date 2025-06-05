@@ -12,4 +12,4 @@ ill collab on anything interesting
 
 contact me: `displaynameishere@wearehackerone.com`
 
-[![displaynameishere's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=displaynameishere&theme=black-lime)]
+![displaynameishere's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=displaynameishere&theme=black-lime)
