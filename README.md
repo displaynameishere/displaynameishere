@@ -1,5 +1,5 @@
 # displaynameishere
-> i dislike jquery
+> i dislike jquery and vibe coding
 * coder
 * hacker
 * arch linux user
